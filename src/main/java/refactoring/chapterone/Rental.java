@@ -1,7 +1,7 @@
 package refactoring.chapterone;
 
 class Rental {
-    private Movie _movie;
+    Movie _movie;
     private int _daysRented;
 
     public Rental(Movie movie, int daysRented) {
@@ -15,5 +15,13 @@ class Rental {
 
     public Movie getMovie() {
         return _movie;
+    }
+
+    public int getFrequentRenterPoints() {
+        return _movie.getFrequentRenterPoints(_daysRented);
+    }
+
+    public double getCharge() {
+        return _movie.getCharge(_daysRented);
     }
 }
