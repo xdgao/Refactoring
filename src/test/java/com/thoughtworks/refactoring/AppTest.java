@@ -1,4 +1,4 @@
-package refactoring;
+package com.thoughtworks.refactoring;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

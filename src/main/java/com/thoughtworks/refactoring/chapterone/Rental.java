@@ -1,4 +1,4 @@
-package refactoring.chapterone;
+package com.thoughtworks.refactoring.chapterone;
 
 class Rental {
     Movie _movie;

@@ -1,5 +1,8 @@
-package refactoring.chapterone;
+package com.thoughtworks.refactoring.chapterone;
 
+import com.thoughtworks.refactoring.chapterone.Customer;
+import com.thoughtworks.refactoring.chapterone.Movie;
+import com.thoughtworks.refactoring.chapterone.Rental;
 import org.junit.Assert;
 import org.junit.Test;
 

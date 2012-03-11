@@ -1,4 +1,4 @@
-package refactoring.chapterone;
+package com.thoughtworks.refactoring.chapterone;
 
 public abstract class Price {
 

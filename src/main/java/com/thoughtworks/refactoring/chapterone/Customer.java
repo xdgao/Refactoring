@@ -1,4 +1,4 @@
-package refactoring.chapterone;
+package com.thoughtworks.refactoring.chapterone;
 
 import java.util.Enumeration;
 import java.util.Vector;

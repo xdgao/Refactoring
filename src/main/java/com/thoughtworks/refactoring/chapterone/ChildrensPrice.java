@@ -1,4 +1,4 @@
-package refactoring.chapterone;
+package com.thoughtworks.refactoring.chapterone;
 
 public class ChildrensPrice extends Price{
     @Override
